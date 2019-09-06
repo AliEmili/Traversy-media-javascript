@@ -1,4 +1,5 @@
 # Traversy-media-javascript
-Practices related to javascript by a youtube channel called 'Traversy Media'
+Practices related to javascript by a youtube channel called 'Traversy Media', most (if not all) the projects are included the HTML & CSS files.
 <br/><br/>
-- 1 : A JAVASCRIPT DOM cheatsheet.
+- 1 to 4 : JAVASCRIPT DOM cheatsheet.
+<br/><br/>
