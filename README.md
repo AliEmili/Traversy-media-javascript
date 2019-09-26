@@ -5,3 +5,4 @@ Practices related to javascript by a youtube channel called 'Traversy Media', al
 <br/><br/>
 - 5 : A bookList app, it stores the data in localStorage.
 <br/><br/>
+- 6 : A filterable list.
