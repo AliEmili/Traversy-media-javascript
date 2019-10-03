@@ -6,3 +6,6 @@ Practices related to javascript by a youtube channel called 'Traversy Media', al
 - 5 : A bookList app, it stores the data in localStorage.
 <br/><br/>
 - 6 : A filterable list.
+<br/><br/>
+- 7 : A weight converter app. consider the fact that the code isn't exactly the same as the script of brad traversy.
+<br/><br/>
