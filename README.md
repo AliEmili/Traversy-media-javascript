@@ -11,4 +11,6 @@ Practices related to javascript by a youtube channel called 'Traversy Media', al
 <br/><br/>
 - 8 : A cheatsheet for async await,callbacks, promises.
 <br/><br/>
-- 9 : A sample for fetching API and JSON.
+- 9 : A sample for fetching API and JSON, contains BOOTSTRAP.
+<br/><br/>
+- 10 : An application for looking up usa states by fetching JSON, contains BOOTSTRAP.
