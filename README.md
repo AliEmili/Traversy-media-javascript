@@ -7,7 +7,7 @@ Practices related to javascript by a youtube channel called 'Traversy Media', al
 <br/><br/>
 - 6 : A filterable list.
 <br/><br/>
-- 7 : A weight converter app. consider the fact that the code isn't exactly the same as the script of brad traversy.
+- 7 : A weight converter app, you have to enter the weight in pounds and it converts it to grams, kilograms and ounces. consider the fact that the code isn't exactly the same as the script of brad traversy.
 <br/><br/>
 - 8 : A cheatsheet for async await,callbacks, promises.
 <br/><br/>
@@ -15,4 +15,6 @@ Practices related to javascript by a youtube channel called 'Traversy Media', al
 <br/><br/>
 - 10 : An application for looking up usa states by fetching JSON, contains BOOTSTRAP.
 <br/><br/>
-- 11 : An application to bookmark your favorite website so that you can list them and visit them whenever you need them, it's possible to edit them and it checks the validation of the information you insert.
+- 11 : An application to bookmark your favorite website so that you can list them and visit them whenever you need them, it's possible to edit them and it checks the validation of the information you insert. contains BOOTSTRAP.
+<br/><br/>
+- 12 : A single page which contains type writer effect, written with pure javaScript.
