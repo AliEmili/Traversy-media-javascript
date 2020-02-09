@@ -15,6 +15,10 @@ Practices related to javascript by a youtube channel called 'Traversy Media', al
 <br/><br/>
 - 10 : An application for looking up usa states by fetching JSON, contains BOOTSTRAP.
 <br/><br/>
+<<<<<<< HEAD
 - 11 : An application to bookmark your favorite website so that you can list them and visit them whenever you need them, it's possible to edit them and it checks the validation of the information you insert. contains BOOTSTRAP.
 <br/><br/>
 - 12 : A single page which contains type writer effect, written with pure javaScript.
+=======
+- 11 : An application to bookmark your favorite website so that you can list them and visit them whenever you need them, it's possible to edit them and it checks the validation of the information you insert. It stores its data in localStorage. 
+>>>>>>> ff91b820cf33fbb997d6d34c00490822ec58a6df
