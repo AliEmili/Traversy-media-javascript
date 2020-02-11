@@ -20,3 +20,5 @@ Practices related to javascript by a youtube channel called 'Traversy Media', al
 - 12 : A single page which contains type writer effect, written with pure javaScript.
 <br/><br/>
 - 13 : A single page contains a button which when you click on it, it pops up a modal.
+<br/><br/>
+- 14 : An application to enter a number in it and it tells you a random fact about the number. note that, the script is written in two different ways and one of them, which is using XML is commented.
