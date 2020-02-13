@@ -22,3 +22,5 @@ Practices related to javascript by a youtube channel called 'Traversy Media', al
 - 13 : A single page contains a button which when you click on it, it pops up a modal.
 <br/><br/>
 - 14 : An application to enter a number in it and it tells you a random fact about the number. note that, the script is written in two different ways and one of them, which is using XML is commented.
+<br/><br/>
+- 15 : An application to convert text to speech & synthesis.
