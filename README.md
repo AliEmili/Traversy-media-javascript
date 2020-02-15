@@ -26,3 +26,5 @@ Practices related to javascript by a youtube channel called 'Traversy Media', al
 - 15 : An application to convert text to speech & synthesis.
 <br/><br/>
 - 16 : A zipcode app. by typing the zipcode this application shows you the location and latitude and longitude that belongs to the zipcode. using Fetch and Bulma CSS.
+<br/><br/>
+- 17 : A simple javaScript slideshow.
