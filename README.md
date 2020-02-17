@@ -28,3 +28,5 @@ Practices related to javascript by a youtube channel called 'Traversy Media', al
 - 16 : A zipcode app. by typing the zipcode this application shows you the location and latitude and longitude that belongs to the zipcode. using Fetch and Bulma CSS.
 <br/><br/>
 - 17 : A simple javaScript slideshow.
+<br/><br/>
+- 18 : Modern image gallery with ES6 Vanilla JAVASCRIPT.
