@@ -30,3 +30,5 @@ Practices related to javascript by a youtube channel called 'Traversy Media', al
 - 17 : A simple javaScript slideshow.
 <br/><br/>
 - 18 : Modern image gallery with ES6 Vanilla JAVASCRIPT.
+<br/><br/>
+- 19 : Animating font awesome icons.
