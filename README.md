@@ -32,3 +32,5 @@ Practices related to javascript by a youtube channel called 'Traversy Media', al
 - 18 : Modern image gallery with ES6 Vanilla JAVASCRIPT.
 <br/><br/>
 - 19 : Animating font awesome icons.
+<br/><br/>
+- 20 : a Reddit search app with ES6, Fetch & Parcel. In order to run it you need to install parcel using npm by typing this in your terminal 'npm install -g parcel-bundler' and then running the code using parcel by typing 'parcel index.html'. it compiles the code and generates a folder called 'dist' which contained the complied code.
