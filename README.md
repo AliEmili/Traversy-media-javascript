@@ -38,3 +38,5 @@ Practices related to javascript by a youtube channel called 'Traversy Media', al
 - 21 : Star ratings, using Font Awesome.
 <br/><br/>
 - 22 : A responsive coming soon landing page with countdown.
+<br/><br/>
+- 23 : Drag and drop application.
