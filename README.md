@@ -34,3 +34,7 @@ Practices related to javascript by a youtube channel called 'Traversy Media', al
 - 19 : Animating font awesome icons.
 <br/><br/>
 - 20 : a Reddit search app with ES6, Fetch & Parcel. In order to run it you need to install parcel using npm by typing this in your terminal 'npm install -g parcel-bundler' and then running the code using parcel by typing 'parcel index.html'. it compiles the code and generates a folder called 'dist' which contains the complied code.
+<br/><br/>
+- 21 : Star ratings, using Font Awesome.
+<br/><br/>
+- 22 : A responsive coming soon landing page with countdown.
