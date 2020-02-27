@@ -40,3 +40,7 @@ Practices related to javascript by a youtube channel called 'Traversy Media', al
 - 22 : A responsive coming soon landing page with countdown.
 <br/><br/>
 - 23 : Drag and drop application.
+<br/><br/>
+- 24 : A speed typing game.
+<br/><br/>
+- 25 : A dynamic landing page.
