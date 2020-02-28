@@ -44,3 +44,9 @@ Practices related to javascript by a youtube channel called 'Traversy Media', al
 - 24 : A speed typing game.
 <br/><br/>
 - 25 : A dynamic landing page.
+<br/><br/>
+- 26 : Rock Paper Scissors Game | UI & JavaScript.
+<br/><br/>
+- 27 : Linked list data structure in JavaScript.
+<br/><br/>
+- 28 : A password generator.
