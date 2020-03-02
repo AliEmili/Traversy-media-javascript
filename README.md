@@ -50,3 +50,5 @@ Practices related to javascript by a youtube channel called 'Traversy Media', al
 - 27 : Linked list data structure in JavaScript.
 <br/><br/>
 - 28 : A password generator.
+<br/><br/>
+- 29 : Animated counter.
